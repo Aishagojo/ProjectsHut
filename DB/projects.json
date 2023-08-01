@@ -1,3 +1,7 @@
+
+
+
+
 [
   {
     "github_username": "Sahilll15",
@@ -5661,3 +5665,25 @@
     ]
   }
 ]
+
+{
+  "github_username": "aishaomaa",
+  "Social_media": {
+    "gitHub": "https://github.com/Aishagojo",
+    "LinkedIn": "https://www.linkedin.com/in/aisha-omar-572429242/",
+    "Twitter": "https://twitter.com/Aishaomarfarah"
+  },
+  "Projects": [
+    {
+      "link": "https://github.com/Aishagojo/Calculater",
+      "title": "calculator",
+      "description": "A calculator is a simple tool that helps you perform basic arithmetic operations. It allows you to add, subtract, multiply, and divide numbers",
+      "tech": ["html", 
+              "css",
+              "javascript"
+      ]
+    },
+  
+    
+  ]
+}
